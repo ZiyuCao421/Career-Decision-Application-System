@@ -1,0 +1,12 @@
+# Keep private job-search material out of version control.
+01_PROFILE/resume_versions/*
+!01_PROFILE/resume_versions/.gitkeep
+*.pdf
+*.doc
+*.docx
+
+# Local secrets and exports
+.env
+.env.*
+!*.example
+exports/
