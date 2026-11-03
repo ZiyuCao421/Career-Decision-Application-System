@@ -24,6 +24,10 @@
 
 Application Status: `Saved`, `Applied`, `Screening`, `Assessment`, `Interview`, `Offer`, `Rejected`, `Withdrawn`, `Closed`.
 
+Application Phase: `Broad Application`, `Focused Application`, `Interview Conversion`, `Offer Decision`.
+
 Risk Level: `Low Risk`, `Needs Observation`, `High Risk`, `Not Assessed`.
+
+Job Safety Assessment Status: `Not Assessed`, `Needs Verification`, `Clear on checked items`, `High Concern`.
 
 Scoring coverage is the sum of assessed weights divided by 100. A score may be blank when no dimension is assessed.

@@ -8,3 +8,4 @@
 6. Use `N/A` only for an inapplicable assessment. Leave unknown data blank and record it as an unverified item where it affects a decision.
 7. Do not overwrite the user's source résumé files. Store only non-sensitive references such as a resume version label.
 8. Before commits, check IDs, date formats, controlled region/currency fields, CSV headers, and score weights.
+9. Record the active application phase. In the `Broad Application` phase, do not reject a role solely because research or scoring is incomplete; document any explicit high-risk safety signal and the verification action instead.
